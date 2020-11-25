@@ -187,6 +187,9 @@ section {
   .main {
     background-position: top left;
   }
+  .main-content {
+    margin-top: 15rem;
+  }
   .header {
     text-align: center;
   }
